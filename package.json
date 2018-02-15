@@ -1,0 +1,16 @@
+{
+  "name": "Dibbble",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "node-sass ./CSS/style.scss ./CSS/style.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.7.2"
+  },
+  "dependencies": {},
+  "description": ""
+}

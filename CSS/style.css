@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box; }
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  background: #F4F4F4;
+  width: 1358px; }
+  .container__item {
+    height: auto;
+    padding: 10px;
+    background: white;
+    margin: 5px; }
+    .container__item__img {
+      padding: 10px; }
+    .container__item__icons {
+      text-align: right;
+      color: #AAA;
+      size: 13px; }
+      .container__item__icons p {
+        display: inline;
+        font-family: Helvetica;
+        margin-left: 5px; }
+      .container__item__icons i {
+        margin-right: 2px; }
